@@ -8,4 +8,4 @@ jobs:
     machine: true
     resource_class: cj-cci/machine-runner
     steps:
-      - run: echo "Hi I'm on Runners! Testing"
+      - run: echo "Hi I'm on Runners! Checking"
